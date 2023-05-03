@@ -53,6 +53,4 @@ https://drive.google.com/file/d/1jAsCSHsPJhegFq5Y-2ULe7iRfxHrnxPB/view?usp=share
     Indexing to fasten searching and retrieval of data;
     Constraint and Trigger to search and update the data.
 
-**Contributions**:
-  Xu Yi: First 3 widgets; 20 h
-  Chengming He: The Other 3 widgets and updates : 20 h
+
